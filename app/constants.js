@@ -5,7 +5,7 @@ const JWT_SECRET_KEY = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrst
 const SERVER_PORT = 8080;
 
 // MongoDB database URI for connecting to the database
-const DATABASE_URI = 'mongodb+srv://harsh1992:harsh1992@cluster0.n12rl04.mongodb.net/?retryWrites=true&w=majority';
+const DATABASE_URI = 'YOUR_CONNECTION_URI_STRING_HERE';
 
 // Duration for which JWT tokens are valid
 const TOKEN_EXPIRATION_DURATION = '7d';
